@@ -1,0 +1,2 @@
+We can start with the Javasvript by writing the command  node "nameoffile".js if name of file is text .js then we can run it in our editor with command 
+node text.js
